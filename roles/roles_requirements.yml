@@ -24,3 +24,14 @@
 - src: git+https://github.com/AutomationWithAnsible/ansible-nginx.git
   version: "v1.0.3"
   name: ansible-nginx
+
+
+- src: git+https://github.com/geerlingguy/ansible-role-gitlab.git
+  version: "2.5.3"
+  name: gitlab-server
+
+
+- src: git+https://github.com/bertvv/ansible-role-bind.git
+  version: "v4.1.0"
+  name: bind
+

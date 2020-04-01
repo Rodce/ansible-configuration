@@ -5,3 +5,5 @@ dependencies:
   - {role: Stouts.sudo,             tags: sudo }
   - {role: ANXS.openssh,            tags: openssh }
   - {role: knopki.locale,           tags: locale }
+  - {role: geerlingguy.gitlab,      tags: gitlab_server }
+  - {role: bertvv.bind,             tags: bind }
