@@ -7,3 +7,5 @@ dependencies:
   - {role: knopki.locale,           tags: locale }
   - {role: geerlingguy.gitlab,      tags: gitlab_server }
   - {role: bertvv.bind,             tags: bind }
+  - {role: atosatto.minio,          tags: minio }
+  - {role: geerlingguy.haproxy,          tags: haproxy }
